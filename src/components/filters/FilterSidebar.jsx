@@ -32,7 +32,7 @@ const FilterSidebar = ({
       {/* Filter card */}
 
       <div className="bg-white border border-gray-200 rounded-xl p-6 overflow-y-auto
-        pr-3">
+       max-h-[75vh] pr-3">
         <div className="flex items-center justify-center gap-2 mb-6">
           <FaFilter className="text-blue-400" />
 
